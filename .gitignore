@@ -1,0 +1,5 @@
+/venv/
+/web/client/configdev/node_modules/
+/web/client/configdev/package-lock.json
+*.iml
+/.idea/
